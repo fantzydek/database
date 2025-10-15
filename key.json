@@ -5,5 +5,12 @@
     "role": "owner",
     "expiresAt": 1786446772537,
     "createdAt": 1760526772537
+  },
+  {
+    "username": "fant",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1786446878860,
+    "createdAt": 1760526878860
   }
 ]
