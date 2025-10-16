@@ -75,5 +75,12 @@
     "role": "reseller",
     "expiresAt": 865760518021594,
     "createdAt": 1760604421594
+  },
+  {
+    "username": "ZyroOwner",
+    "password": "11",
+    "role": "reseller",
+    "expiresAt": 1786524547601,
+    "createdAt": 1760604547601
   }
 ]
