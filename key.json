@@ -47,5 +47,12 @@
     "role": "owner",
     "expiresAt": 1762328822720,
     "createdAt": 1760600822720
+  },
+  {
+    "username": "Xyro",
+    "password": "12",
+    "role": "owner",
+    "expiresAt": 1786523147469,
+    "createdAt": 1760603147469
   }
 ]
