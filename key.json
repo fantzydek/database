@@ -124,5 +124,12 @@
     "role": "user",
     "expiresAt": 8641760523400727,
     "createdAt": 1760609800727
+  },
+  {
+    "username": "putz",
+    "password": "987",
+    "role": "user",
+    "expiresAt": 1764930507144,
+    "createdAt": 1760610507144
   }
 ]
