@@ -54,5 +54,12 @@
     "role": "owner",
     "expiresAt": 1786523147469,
     "createdAt": 1760603147469
+  },
+  {
+    "username": "Zeta",
+    "password": "12",
+    "role": "reseller",
+    "expiresAt": 86400001760516980000,
+    "createdAt": 1760603374549
   }
 ]
