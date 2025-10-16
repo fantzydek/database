@@ -131,5 +131,12 @@
     "role": "user",
     "expiresAt": 1764930507144,
     "createdAt": 1760610507144
+  },
+  {
+    "username": "dapit",
+    "password": "9909",
+    "role": "user",
+    "expiresAt": 1764067711894,
+    "createdAt": 1760611711894
   }
 ]
