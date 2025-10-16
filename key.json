@@ -96,5 +96,12 @@
     "role": "reseller",
     "expiresAt": 1768380776279,
     "createdAt": 1760604776279
+  },
+  {
+    "username": "Zarr",
+    "password": "2",
+    "role": "user",
+    "expiresAt": 1763197526828,
+    "createdAt": 1760605526828
   }
 ]
