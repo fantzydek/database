@@ -89,5 +89,12 @@
     "role": "reseller",
     "expiresAt": 1768380651926,
     "createdAt": 1760604651926
+  },
+  {
+    "username": "brinz",
+    "password": "532",
+    "role": "reseller",
+    "expiresAt": 1768380776279,
+    "createdAt": 1760604776279
   }
 ]
