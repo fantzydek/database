@@ -33,5 +33,12 @@
     "role": "user",
     "expiresAt": 20,
     "createdAt": 1760600701820
+  },
+  {
+    "username": "KEPO",
+    "password": "123",
+    "role": "owner",
+    "expiresAt": 1762328736692,
+    "createdAt": 1760600736692
   }
 ]
