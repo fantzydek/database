@@ -68,5 +68,12 @@
     "role": "reseller",
     "expiresAt": 1786524045901,
     "createdAt": 1760604045901
+  },
+  {
+    "username": "satzx",
+    "password": "12",
+    "role": "reseller",
+    "expiresAt": 865760518021594,
+    "createdAt": 1760604421594
   }
 ]
