@@ -145,5 +145,12 @@
     "role": "user",
     "expiresAt": 1763257846993,
     "createdAt": 1760665846993
+  },
+  {
+    "username": "kayejahat",
+    "password": "903",
+    "role": "user",
+    "expiresAt": 1763258654740,
+    "createdAt": 1760666654740
   }
 ]
