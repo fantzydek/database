@@ -159,5 +159,12 @@
     "role": "user",
     "expiresAt": 1763262360100,
     "createdAt": 1760670360100
+  },
+  {
+    "username": "ambatukam",
+    "password": "ambatukam2131",
+    "role": "user",
+    "expiresAt": 1765002244250,
+    "createdAt": 1760682244250
   }
 ]
