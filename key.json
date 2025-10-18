@@ -201,5 +201,12 @@
     "role": "user",
     "expiresAt": 1763359552885,
     "createdAt": 1760767552885
+  },
+  {
+    "username": "Fantzy1",
+    "password": "1",
+    "role": "owner",
+    "expiresAt": 1763359574409,
+    "createdAt": 1760767574409
   }
 ]
