@@ -209,5 +209,12 @@
     "expiresAt": 1763359574409,
     "createdAt": 1760767574409
   },
-  null
+  null,
+  {
+    "username": "Darelnaura",
+    "password": "309",
+    "role": "user",
+    "expiresAt": 1763360689005,
+    "createdAt": 1760768689005
+  }
 ]
