@@ -187,5 +187,12 @@
     "role": "user",
     "expiresAt": 1763359498830,
     "createdAt": 1760767498830
+  },
+  {
+    "username": "lucaa",
+    "password": "123",
+    "role": "user",
+    "expiresAt": 1763359528592,
+    "createdAt": 1760767528592
   }
 ]
