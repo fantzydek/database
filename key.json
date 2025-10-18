@@ -194,5 +194,12 @@
     "role": "user",
     "expiresAt": 1763359528592,
     "createdAt": 1760767528592
+  },
+  {
+    "username": "ruwok",
+    "password": "309",
+    "role": "user",
+    "expiresAt": 1763359552885,
+    "createdAt": 1760767552885
   }
 ]
